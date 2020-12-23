@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewCalculator</string>
+    <string name="division">÷</string>
+</resources>
